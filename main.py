@@ -107,5 +107,10 @@ def delete(id):
     return redirect('/')
 
 if __name__ == "__main__":
+branch3
+    app.run(debug=True)   
+print("This is code from Branch 3")
+
     app.run(debug=True)
 print("This is code from Branch 2")
+branch2
